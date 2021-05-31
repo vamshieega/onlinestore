@@ -1,5 +1,7 @@
 # MyFirstApp
 
+check project status : https://angry-leavitt-5323c1.netlify.app/ 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
