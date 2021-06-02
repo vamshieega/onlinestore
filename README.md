@@ -1,6 +1,8 @@
 # MyFirstApp
 
-check project status : https://angry-leavitt-5323c1.netlify.app/ 
+Run my project by just tapping  one click  :
+https://angry-leavitt-5323c1.netlify.app/    (or)
+https://stackb;litz.com/github/vamshieega/onlinestore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
