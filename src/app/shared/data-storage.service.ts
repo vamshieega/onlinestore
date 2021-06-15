@@ -23,8 +23,7 @@ constructor(private http:HttpClient,
          })
     }
 
-    fetchRecipes(){
-         
+    fetchRecipes(){ 
       return   this.http.get<Recipe[]>('https://ng-recipe-d5af4-default-rtdb.firebaseio.com/recipes.json')
          .pipe(map(recipes =>{ 
              return recipes.map(recipe =>{ 
